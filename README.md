@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **SQL and Python**
 
-- 📫 How to reach me **jaitn.arora@intellisphere.in**
+- 📫 How to reach me **jatin.arora@intellisphere.in**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jatin-arora-a8b42222a/](https://www.linkedin.com/in/jatin-arora-a8b42222a/)
 
